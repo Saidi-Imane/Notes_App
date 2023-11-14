@@ -10,8 +10,7 @@ A simple Notes App created with HTML, CSS, and JavaScript. This project allows u
 - **Local Storage:** Notes are stored locally, ensuring persistence across browser sessions.
 - **Responsive Design:** The app is designed to work seamlessly on various screen sizes.
 ## SnapShots
-![Uploading image.png…]()
-
+![image](https://github.com/Saidi-Imane/Notes_App/assets/150747398/7e118911-05ce-4bfa-a3b2-9643b0827a31)
 
 ## Project Structure
 
