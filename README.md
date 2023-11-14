@@ -1,7 +1,5 @@
 # Notes_App
 
-# Notes App
-
 A simple Notes App created with HTML, CSS, and JavaScript. This project allows users to create, edit, and delete notes that are stored using the browser's Local Storage. This means your notes will persist even if you close and restart the browser.
 
 ## Features
